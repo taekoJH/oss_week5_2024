@@ -1,5 +1,2 @@
-2023311945
+023311945
 easy git commands
-add: index registration
-commit: history regarding
-merge: issue2 and issue3
